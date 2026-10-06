@@ -1,0 +1,26 @@
+# Electron runtime in the original portable folder
+/*.exe
+/*.dll
+/*.pak
+/*.bin
+/*.dat
+/locales/
+/version
+/LICENSE
+/LICENSES.chromium.html
+/vk_swiftshader_icd.json
+/resources/default_app.asar
+/*.pdf
+
+# Dependencies, releases and local state
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+resources/app/self-test*
+resources/app/route-test*
+resources/app/.publish-capture.cjs
+.DS_Store
+Thumbs.db

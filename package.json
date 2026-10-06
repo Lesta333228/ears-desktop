@@ -1,0 +1,15 @@
+{
+  "name": "ears-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ears Desktop: Bass Boost and 11-band EQ for Windows desktop applications",
+  "main": "resources/app/main.js",
+  "scripts": {
+    "start": "electron resources/app",
+    "self-test": "electron resources/app --self-test",
+    "package:win": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/package-win.ps1"
+  },
+  "devDependencies": {
+    "electron": "44.5.1"
+  }
+}

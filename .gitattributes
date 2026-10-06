@@ -1,0 +1,8 @@
+* text=auto
+*.pdf binary
+*.png binary
+*.exe binary
+*.chm binary
+resources/app/index.html whitespace=-blank-at-eof,-blank-at-eol
+resources/app/popup.css whitespace=-blank-at-eol
+resources/app/tools/readme.txt conflict-marker-size=32
