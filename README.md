@@ -15,7 +15,7 @@
 ![EQ](https://img.shields.io/badge/EQ-11%20bands-85DDBE)
 ![Desktop](https://img.shields.io/badge/edition-Desktop-B9A4FF)
 
-[Быстрый старт](#быстрый-старт) · [Возможности](#возможности) · [Руководство PDF](docs/guide.pdf)
+[Скачать для Windows](https://github.com/Lesta333228/ears-desktop/releases/latest) · [Быстрый старт](#быстрый-старт) · [Руководство PDF](docs/guide.pdf)
 
 <img src="docs/images/desktop.png" width="820" alt="Интерфейс Ears Desktop: выбор приложения, аудиоустройства и эквалайзер">
 
@@ -57,7 +57,7 @@
 
 ### 2. Запустите Ears Desktop
 
-Скачайте архив **Ears-Desktop-1.0.0-Windows-x64.zip** из раздела **Releases** этого репозитория, распакуйте всю папку и запустите `Ears Desktop.exe`. Программа переносимая: сохраняйте EXE вместе с папками `resources`, `locales` и остальными файлами архива.
+Скачайте архив **Ears-Desktop-1.0.0-Windows-x64.zip** из [Releases](https://github.com/Lesta333228/ears-desktop/releases/latest), распакуйте всю папку и запустите `Ears Desktop.exe`. Программа переносимая: сохраняйте EXE вместе с папками `resources`, `locales` и остальными файлами архива.
 
 ### 3. Подключите приложение
 
