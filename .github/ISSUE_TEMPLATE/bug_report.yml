@@ -1,0 +1,23 @@
+name: Bug report / Ошибка
+description: Report a reproducible problem / Сообщить о проблеме
+title: "[Bug]: "
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment / Окружение
+      description: Windows version, Ears version, source application, VB-CABLE setup, input and output devices.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Шаги
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual behavior / Ожидаемый и фактический результат
+    validations:
+      required: true
