@@ -4,6 +4,8 @@
 
 # Легендарный Ears: Bass Boost, EQ Any Audio!
 
+**Русский** · [English](README.en.md)
+
 ### ПК-версия для Windows · Ears Desktop
 
 **Любимый эквалайзер — теперь для звука настольных приложений.**
@@ -20,6 +22,8 @@
 <img src="docs/images/desktop.png" width="820" alt="Интерфейс Ears Desktop: выбор приложения, аудиоустройства и эквалайзер">
 
 </div>
+
+![Интерфейс Ears Desktop](docs/images/desktop.png)
 
 ## Ears выходит за пределы браузера
 
@@ -137,3 +141,9 @@ docs/guide.pdf    Руководство пользователя
 Это самостоятельная ПК-адаптация; принадлежность к официальной команде браузерного расширения не заявляется. Названия Яндекс Музыки и Spotify приведены как примеры источников звука, а не как заявление о партнёрстве.
 
 У сторонних компонентов собственные лицензии. Подробности — в [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Лицензия Electron относится к Electron; она не назначает лицензию исходному интерфейсу Ears или всем файлам проекта.
+
+## Обратная связь
+
+[Сообщить об ошибке](https://github.com/Lesta333228/ears-desktop/issues/new?template=bug_report.yml) · [Предложить функцию](https://github.com/Lesta333228/ears-desktop/issues/new?template=feature_request.yml)
+
+Если Ears оказался полезен, поставьте звезду или поделитесь ссылкой с тем, кому нужен эквалайзер для приложений Windows.
